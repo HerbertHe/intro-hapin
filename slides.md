@@ -3,7 +3,7 @@
 theme: seriph
 # random image from a curated Unsplash collection by Anthony
 # like them? see https://unsplash.com/collections/94734566/slidev
-background: https://source.unsplash.com/collection/94734566/1920x1080
+background: /imgs/bg.jpg
 # apply any windi css classes to the current slide
 class: 'text-center'
 # https://sli.dev/custom/highlighters.html
@@ -142,7 +142,7 @@ css: windicss
 
 在研究中，发现哈萨克斯坦一直在推动哈萨克语拉丁化改革，作为世界上最大的内陆国、中亚第一大经济体，这对国家 “一带一路” 战略同样有深远的影响。
 
-> 或者，哈拼可以做什么？正如我开始学习哈萨克语的时候，在想的 **“国内哈萨克族有一百五十余万人，但是没有什么好的输入法，我可以做些什么？”**
+> ❓或者，哈拼可以做什么？正如我开始学习哈萨克语的时候，在想的 **“国内哈萨克族有一百五十余万人，但是没有什么好的输入法，我可以做些什么？”**
 
 - 或许，我可以打通 **汉语拼音** 和 **哈萨克语** 障碍，用 **哈萨克语** 来输入 **汉语**，帮助上年纪的哈族群众学习使用国家通用语言文字
 - 或许，我可以打通哈拼支持 **西里尔文字**、**老文字（阿拉伯-波斯文字）**、**哈萨克斯坦未来采用的文字**、**国内学术用的国际音标**……
